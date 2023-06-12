@@ -1,6 +1,12 @@
 # PowerBI_Projects
 Power Bi reports and Dashboards on different datasets are here.
 
+This repository contains files/codes for my Data Visualization projects and reports created using Power BI.
+
+Files
+Each folder contains the dataset(in xlsx or csv format), the dashboard (in pbix), and the dashboard insights.
+
+
 Global Superstore Analysis:
 
 ![Screenshot (119)](https://github.com/vaibhavamr/PowerBI_Projects/assets/102346364/9aba9f56-a989-4ddd-a6ee-461b4a6d81ea)
